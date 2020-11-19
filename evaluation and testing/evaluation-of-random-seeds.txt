@@ -1,0 +1,50 @@
+Run 1
+===================================
+Id: 1, name: new_Study2, study_configuration: {"maxTrials": 20, "params": [{"parameterName": "x", "type": "DOUBLE", "maxValue": 10, "scallingType": "LINEAR", "minValue": -10}], "randomInitTrials": 10, "goal": "MINIMIZE", "maxParallelTrials": 1}, algorithm: RandomSearch
+Id: 1, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -7.312715117751976}, objective_value: 77.41394774665423
+Id: 2, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 6.9486747387446535}, objective_value: 29.438056408634115
+Id: 3, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 5.275492379532281}, objective_value: 14.004342707906325
+Id: 4, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -4.898619485211566}, objective_value: 40.69233131652913
+Id: 5, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -0.09129825816118142}, objective_value: 2.28223014642681
+Id: 6, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -1.010178704225238}, objective_value: 6.050997127145894
+Id: 7, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 3.031859454455258}, objective_value: 2.096593388203962
+Id: 8, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 5.7744670227102635}, objective_value: 18.02106832823754
+Id: 9, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -8.122808264515303}, objective_value: 92.34843889562403
+Id: 10, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -9.433050469559873}, objective_value: 119.28159256994337
+Id: 11, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 6.715302078397393}, objective_value: 26.949375768936164
+Id: 12, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -1.344658641898933}, objective_value: 7.842082788930282
+Id: 13, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 5.245601649158839}, objective_value: 13.779531714181417
+Id: 14, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -9.957878932977787}, objective_value: 131.0329896427762
+Id: 15, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -1.092256118903972}, objective_value: 6.469791785995083
+Id: 16, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 4.430800646815651}, objective_value: 8.339592431375038
+Id: 17, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -5.424755574590947}, objective_value: 47.70223976782839
+Id: 18, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 8.905413911078448}, objective_value: 54.59015519439419
+Id: 19, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 8.028549152229672}, objective_value: 42.37195403307878
+Id: 20, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -9.388200339328929}, objective_value: 118.3029066293626
+Best trial: Id: 7, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 3.031859454455258}, objective_value: 2.096593388203962
+
+
+Run 2
+===================================
+Id: 1, name: new_Study2, study_configuration: {"maxTrials": 20, "params": [{"parameterName": "x", "type": "DOUBLE", "maxValue": 10, "scallingType": "LINEAR", "minValue": -10}], "randomInitTrials": 10, "goal": "MINIMIZE", "maxParallelTrials": 1}, algorithm: RandomSearch
+Id: 1, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -7.312715117751976}, objective_value: 77.41394774665423
+Id: 2, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 6.9486747387446535}, objective_value: 29.438056408634115
+Id: 3, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 5.275492379532281}, objective_value: 14.004342707906325
+Id: 4, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -4.898619485211566}, objective_value: 40.69233131652913
+Id: 5, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -0.09129825816118142}, objective_value: 2.28223014642681
+Id: 6, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -1.010178704225238}, objective_value: 6.050997127145894
+Id: 7, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 3.031859454455258}, objective_value: 2.096593388203962
+Id: 8, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 5.7744670227102635}, objective_value: 18.02106832823754
+Id: 9, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -8.122808264515303}, objective_value: 92.34843889562403
+Id: 10, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -9.433050469559873}, objective_value: 119.28159256994337
+Id: 11, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 6.715302078397393}, objective_value: 26.949375768936164
+Id: 12, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -1.344658641898933}, objective_value: 7.842082788930282
+Id: 13, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 5.245601649158839}, objective_value: 13.779531714181417
+Id: 14, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -9.957878932977787}, objective_value: 131.0329896427762
+Id: 15, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -1.092256118903972}, objective_value: 6.469791785995083
+Id: 16, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 4.430800646815651}, objective_value: 8.339592431375038
+Id: 17, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -5.424755574590947}, objective_value: 47.70223976782839
+Id: 18, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 8.905413911078448}, objective_value: 54.59015519439419
+Id: 19, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 8.028549152229672}, objective_value: 42.37195403307878
+Id: 20, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": -9.388200339328929}, objective_value: 118.3029066293626
+Best trial: Id: 7, study_name: new_Study2, name: RandomSearchTrial, parameter_values: {"x": 3.031859454455258}, objective_value: 2.096593388203962
